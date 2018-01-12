@@ -1,9 +1,6 @@
 """Tests for practice problems."""
-
 import unittest
-
 import practice_problems
-
 
 class CountAppearancesTest(unittest.TestCase):
     def test_good_input_results_in_expected_counts(self):
